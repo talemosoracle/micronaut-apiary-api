@@ -1,0 +1,33 @@
+FORMAT: 1A
+HOST: http://132.226.246.150:8080/
+
+# Micronaut DEMO
+
+This is the Pet Store and Owner API.
+
+## Pet Store [/pets]
+
+### List All Pets [GET]
+
+You can retrieve a list with all the pets
+
++ Response 200 (application/json)
+
+        [
+            {"name":"Dino"},
+            {"name":"Baby Puss"},
+            {"name":"Hoppy"}
+        ]
+
+## Owners [/owners]
+
+### List All Owners [GET]
+
+You can retrieve a list of all the owners of the pets.
+
++ Response 200 (application/json)
+
+        [
+            {"id":9,"name":"Fred","age":45},
+            {"id":10,"name":"Barney","age":40}
+        ]
