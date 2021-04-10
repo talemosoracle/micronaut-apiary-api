@@ -5,7 +5,7 @@ info:
   description: Simple API for pet store Micronaut Demo.
   license:
     name: MIT
-    url: https://github.com/apiaryio/polls-api/blob/master/LICENSE
+    url: https://github.com/talemosoracle/micronaut-apiary-api
 host: 132.226.246.150:8080
 basePath: /
 schemes:
