@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   version: '1.0'
-  title: "Micronaut Swagger"
+  title: "Pets Store Swagger"
   description: Simple API for pet store Micronaut Demo.
   license:
     name: MIT
